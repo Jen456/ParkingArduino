@@ -2,7 +2,7 @@
 
  🚀 Automated parking with arduino. The code validates the entry of the vehicle by rfid and exit validates it by means of a proximity sensor
 
-![alt text](https://photos.app.goo.gl/vNVV7qFN7Nxq2CbJ9)
+![Parking](https://github.com/Jen456/ParkingArduino/blob/master/parking.jpg)
 
 ### Materials 📋
 
