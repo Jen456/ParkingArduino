@@ -38,6 +38,7 @@ This project is under License MIT - see the file [LICENSE.md] for details
 
 * Invite a beautiful couple of electronic technicians to a coffee or a beer🍺 
 
-* Share this project to others, it's free as long as they give us words of encouragement to continue doing projects
+* Share this project to others, it's free as long as they give us words of encouragement to continue doing projects: 
+https://paypal.me/jjalava?locale.x=es_XC
 
 
