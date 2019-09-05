@@ -12,7 +12,8 @@
 - arduino plate
 - leds
 - jumpers
-
+- ultrasonics sensor
+- servo motor
 
 ### Use 🔧
 
